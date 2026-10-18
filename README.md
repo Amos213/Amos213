@@ -2,7 +2,7 @@
 
 #  KIPKOECH AMOS
 
-###  AUTOMATION SPECIALIST | E-commerce WORKFLOWS | BUSINESS INTELLIGENCE
+###  AUTOMATION SPECIALIST | E-COMMERCE OPERATIONS | AI WORKFLOWS
 
 <p>
   <a href="https://github.com/Amos213">
@@ -23,16 +23,37 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+### ⚙️ Automation & AI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=n8n,python,mysql,github,git,vscode" alt="Technology icons"/>
+  <img src="https://skillicons.dev/icons?i=n8n" alt="n8n"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+</p>
+
+### 🛍️ E-commerce & Operations
+
+<p align="center">
+  <img src="https://img.shields.io/badge/E--commerce-FF9900?style=for-the-badge&logo=shopify&logoColor=white" alt="E-commerce"/>
+  <img src="https://img.shields.io/badge/3PL-00897B?style=for-the-badge" alt="Third-Party Logistics"/>
+  <img src="https://img.shields.io/badge/WMS-1565C0?style=for-the-badge" alt="Warehouse Management Systems"/>
+  <img src="https://img.shields.io/badge/CRM-6C63FF?style=for-the-badge" alt="CRM"/>
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable"/>
+</p>
+
+### 🗄️ Databases, APIs & Business Intelligence
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Development tools"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/e-ccomerce-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="e-ccomerce"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge" alt="Webhooks"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
@@ -42,32 +63,36 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Automation Specialist** focused on building reliable workflows that help businesses reduce manual work, prevent errors, and operate more efficiently.
+I'm an **Automation Specialist** focused on connecting business systems, streamlining e-commerce operations, and building reliable AI-powered workflows.
 
-🎯 **My main focus:**
-- ⚙️ **Workflow Automation:** Building business workflows with n8n.
-- 🛍️ **Shopify Automation:** Orders, inventory synchronization, and customer workflows.
-- 🔗 **API Integrations:** Connecting business applications using REST APIs, GraphQL, and webhooks.
-- 🛡️ **Reliable Systems:** Error handling, retries, logging, and duplicate prevention.
+### 🎯 My Core Focus
+
+- ⚙️ **Workflow Automation:** n8n workflows, integrations, and process optimization.
+- 🛍️ **E-commerce Automation:** Orders, inventory, customer data, and fulfillment workflows.
+- 📦 **3PL & WMS Integration:** Order routing, warehouse synchronization, and fulfillment operations.
+- 🤖 **AI Agents & Prompt Engineering:** Building intelligent workflows for business tasks.
+- 🔗 **API Integrations:** REST APIs, GraphQL, and webhooks.
+- 🛡️ **Reliable Automation:** Error handling, retries, logging, and duplicate prevention.
 - 📊 **Business Intelligence:** MySQL data pipelines and Power BI dashboards.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does |
+| Project | Objective |
 |---|---|
-| 🛍️ Shopify Sales Intelligence | Shopify data → MySQL → Power BI |
-| 📦 Inventory Synchronization | Shopify inventory data, pagination, and database upserts |
-| 👥 Customer Automation | Customer data processing, deduplication, and database storage |
+| 🛍️ E-commerce Sales Intelligence | Automate sales data pipelines and visualize performance in Power BI. |
+| 📦 Inventory Synchronization | Synchronize inventory data and prevent duplicate database records. |
+| 🚚 Order & Fulfillment Automation | Explore order routing and integrations between e-commerce, 3PL, and WMS systems. |
+| 🤖 AI Customer Support Workflow | Explore AI-assisted customer queries, workflow routing, and notifications. |
 
-*Projects are being developed and documented as workflows are completed and tested.*
+*Project descriptions will be updated as implementations are completed and tested.*
 
 ---
 
 ## 📈 My Mission
 
-**Automate repetitive work. Integrate business systems. Turn data into decisions.**
+**Automate operations. Connect systems. Eliminate repetitive work. Deliver measurable business value.**
 
 <div align="center">
 
