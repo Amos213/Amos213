@@ -1,21 +1,21 @@
 <div align="center">
 
-#  KIPKOECH AMOS
+# KIPKOECH AMOS
 
-###  AUTOMATION SPECIALIST | E-COMMERCE OPERATIONS | AI WORKFLOWS
+### AUTOMATION SPECIALIST | E-COMMERCE OPERATIONS | AI WORKFLOWS
 
 <p>
   <a href="https://github.com/Amos213">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/kipkoech-amos">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://x.com/amos35030">
-    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://kipkoech-amos-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:kipkoecha583@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -23,18 +23,18 @@
 
 ---
 
-## Tech Stack
+## TECH STACK
 
-### ⚙️ Automation & AI
+### Automation and AI
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=n8n" alt="n8n"/>
   <img src="https://img.shields.io/badge/AI%20Agents-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=for-the-badge" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
 </p>
 
-### 🛍️ E-commerce & Operations
+### E-commerce and Operations
 
 <p align="center">
   <img src="https://img.shields.io/badge/E--commerce-FF9900?style=for-the-badge&logo=shopify&logoColor=white" alt="E-commerce"/>
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable"/>
 </p>
 
-### 🗄️ Databases, APIs & Business Intelligence
+### Databases, APIs and Business Intelligence
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Development tools"/>
@@ -61,50 +61,59 @@
 
 ---
 
-## 👨‍💻 About Me
+## ABOUT ME
 
 I'm an **Automation Specialist** focused on connecting business systems, streamlining e-commerce operations, and building reliable AI-powered workflows.
 
-### 🎯 My Core Focus
+My goal is to help businesses reduce manual work, improve operational efficiency, and build systems that deliver measurable results.
 
-- ⚙️ **Workflow Automation:** n8n workflows, integrations, and process optimization.
-- 🛍️ **E-commerce Automation:** Orders, inventory, customer data, and fulfillment workflows.
-- 📦 **3PL & WMS Integration:** Order routing, warehouse synchronization, and fulfillment operations.
-- 🤖 **AI Agents & Prompt Engineering:** Building intelligent workflows for business tasks.
-- 🔗 **API Integrations:** REST APIs, GraphQL, and webhooks.
-- 🛡️ **Reliable Automation:** Error handling, retries, logging, and duplicate prevention.
-- 📊 **Business Intelligence:** MySQL data pipelines and Power BI dashboards.
+### CORE FOCUS
+
+- **Workflow Automation:** Building workflows and integrating business applications with n8n.
+- **E-commerce Automation:** Automating orders, inventory, customer data, and fulfillment processes.
+- **3PL and WMS Integration:** Connecting e-commerce platforms, third-party logistics providers, and warehouse management systems.
+- **AI Agents and Prompt Engineering:** Designing AI-powered workflows for business operations.
+- **API Integrations:** Connecting systems using REST APIs, GraphQL, and webhooks.
+- **Reliable Automation:** Implementing error handling, retries, logging, and duplicate prevention.
+- **Business Intelligence:** Building MySQL data pipelines and Power BI dashboards.
 
 ---
 
-## 🚀 Featured Projects
+## FEATURED PROJECTS
 
 | Project | Objective |
 |---|---|
-| 🛍️ E-commerce Sales Intelligence | Automate sales data pipelines and visualize performance in Power BI. |
-| 📦 Inventory Synchronization | Synchronize inventory data and prevent duplicate database records. |
-| 🚚 Order & Fulfillment Automation | Explore order routing and integrations between e-commerce, 3PL, and WMS systems. |
-| 🤖 AI Customer Support Workflow | Explore AI-assisted customer queries, workflow routing, and notifications. |
+| E-commerce Sales Intelligence | Transform sales data into actionable insights using MySQL and Power BI. |
+| Inventory Synchronization | Synchronize inventory data and maintain database consistency. |
+| Order and Fulfillment Automation | Connect order routing, 3PL, and warehouse workflows. |
+| AI Customer Support Workflow | Explore AI-assisted customer support, automated routing, and notifications. |
 
-*Project descriptions will be updated as implementations are completed and tested.*
+*Projects are updated as implementations are completed and tested.*
 
 ---
 
-## 📈 My Mission
+## MY MISSION
 
-**Automate operations. Connect systems. Eliminate repetitive work. Deliver measurable business value.**
+**Automate operations. Connect systems. Reduce repetitive work. Deliver measurable business value.**
+
+---
+
+## CONTACT
+
+<p align="center">
+  <a href="mailto:kipkoecha583@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/amos35030">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://kipkoech-amos-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/kipkoech-amos">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://kipkoech-amos-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-⭐ *Building smarter workflows, one automation at a time.*
+*Building smarter workflows through automation and intelligent integrations.*
 
 </div>
